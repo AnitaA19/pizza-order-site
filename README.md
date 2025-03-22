@@ -8,7 +8,7 @@ A modern web application for ordering delicious pizzas online. The app provides 
 ✅ Responsive design for mobile and desktop
 
 🎥 Live Demo
-🔗https://pizzaorder-site.netlify.app/
+🔗[Try Here](https://pizzaorder-site.netlify.app/)
 
 🛠 Tech Stack
 React – UI framework
@@ -22,9 +22,6 @@ ESLint – Code linting
 📦 Installation
 Follow these steps to run the project locally:
 
-bash
-Копировать
-Редактировать
 # Clone the repository  
 git clone https://github.com/AnitaA19/pizza-order-site.git  
 
